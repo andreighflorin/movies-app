@@ -1,0 +1,32 @@
+.search {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  grid-column: span 12;
+}
+
+.search label {
+  font-size: 16px;
+  font-weight: 500;
+  color: #6c757d;
+  padding: 20px 0;
+  display: block;
+}
+
+.search input {
+  width: 100%;
+  color: #495057;
+  border: none;
+  font-size: 14px;
+  border-radius: 0.25rem;
+  margin: 0 auto;
+  padding: 12px 20px;
+  border: 1px solid #ced4da;
+  display: block;
+}
+
+.search input:focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
