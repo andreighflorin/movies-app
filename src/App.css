@@ -1,0 +1,47 @@
+a {
+  color: #444;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn {
+  width: 100%;
+  max-width: 180px;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: block;
+}
+
+.btnAdd {
+  background-color: #299b59;
+  color: #fff;
+}
+
+.btnAdd:hover {
+  background-color: #218e51;
+}
+
+.btnRemove {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.btnLink {
+  background: #ffe71f;
+  margin: 10px auto;
+}
+
+.btnLink:hover {
+  background-color: #f0cd0e;
+}
+
+.active,
+span {
+  color: #f11a3a;
+}
