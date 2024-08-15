@@ -1,0 +1,9 @@
+.error {
+  grid-column: span 12;
+}
+
+.error p {
+  text-align: center;
+  color: #f11a3a;
+  margin: 20px 0 0;
+}
