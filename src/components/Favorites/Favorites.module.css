@@ -1,0 +1,8 @@
+.favorites {
+  grid-column: span 12;
+}
+
+.favorites h2 {
+  margin: 40px auto 20px;
+  text-align: center;
+}
