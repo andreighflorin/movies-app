@@ -1,0 +1,8 @@
+.notfound {
+  grid-column: span 12;
+}
+
+.notfound h2 {
+  margin: 40px auto 20px;
+  text-align: center;
+}
